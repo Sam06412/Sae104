@@ -1,30 +1,19 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# SAE 104 - Création d'un site web
+**Étudiant : Samir Talbi** **BUT Réseaux et Télécommunications - IUT de Béthune**
 
+Ce projet a été réalisé dans le cadre de la SAE 104. Il s'agit d'un site web adaptatif (responsive) présentant mon travail, basé sur le template "Dimension" de HTML5 UP.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+## 🚀 Accès au site
+Le site est hébergé en ligne via GitHub Pages. Vous pouvez le consulter ici :
+👉 [Lien vers le site en direct](https://sam06412.github.io/Sae104/Site_web_Sae/index.html)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🛠️ Technologies utilisées
+* **HTML5 / CSS3**
+* **JavaScript** (jQuery)
+* **Sass** (pour le design)
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📜 Crédits & Licence
+* **Template :** Dimension par [HTML5 UP](https://html5up.net)
+* **Images :** [Unsplash](https://unsplash.com)
+* **Icônes :** [Font Awesome](https://fontawesome.com)
+* **Licence :** Creative Commons Attribution 3.0 (CCA 3.0)
